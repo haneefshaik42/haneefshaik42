@@ -1,6 +1,4 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://visitcount.itsvg.in/api?id=Haneef_Shaik&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</div>
+
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Haneef Shaik</h1>
@@ -47,14 +45,8 @@ Pursuing a Master's in Data Science at UMBC. Passionate about leveraging data fo
 
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-4285F4?style=flat&logo=edge&logoColor=white)
 
-# 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haneefshaik42&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=haneefshaik42&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
-</p>
+
 <p>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haneefshaik42&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
 </p>
