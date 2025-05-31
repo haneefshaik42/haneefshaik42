@@ -61,9 +61,7 @@ Pursuing a Master's in Data Science at UMBC. Passionate about leveraging data fo
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=haneefshaik42&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
 </p>
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=haneefshaik42&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+
 
 <p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
