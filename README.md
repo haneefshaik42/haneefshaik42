@@ -10,19 +10,19 @@
 Pursuing a Master's in Data Science at UMBC. Passionate about leveraging data for insights. Always ready for collaboration and eager to explore new opportunities. Skilled in Python,SQL
 
 # 💻 Tech Stack
-### 💻 Programming Languages
+💻 Programming Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=java" alt="Java" />
 </p>
-### 🌐 Frontend Development
+🌐 Frontend Development
 <p>
 <img src="https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=css3" alt="CSS3" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" />
 </p>
-### ⚙️ Backend Development
+⚙️ Backend Development
 <p>
 <img src="https://img.shields.io/badge/Django-43853D?style=flat&logo=django" alt="Django" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js" alt="Node.js" />
 </p>
-### 🛢 Database
+🛢 Database
 <p>
 <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
 </p>
